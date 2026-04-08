@@ -22,6 +22,17 @@ There is nothing more rewarding than seeing the shift from a customer’s frustr
 * **Support Relationship Manager (SRM)** | *Red Hat*
 * **20+ Years Experience** in Problem Management & Service Delivery.
 
+## ✍️ Latest Articles
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      <span>- {{ post.date | date: "%B %d, %Y" }}</span>
+    </li>
+  {% endfor %}
+</ul>
+
 ## Connect with Me
 I’m always open to discussing problem management frameworks, customer success strategies, or the "Open Source way" of problem-solving.
 
