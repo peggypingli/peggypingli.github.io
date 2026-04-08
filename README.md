@@ -14,7 +14,7 @@ There is nothing more rewarding than seeing the shift from a customer’s frustr
 * **Critical Situation Management:** Leading problem and communication management for enterprise-level technical escalations.
 * **Customer Advocacy:** Bridging the gap between the current offerings and customer business needs.
 * **Problem Management Lifecycle:** 20+ years of refining RCA (Root Cause Analysis) and long-term resolution strategies.
-* **The "Red Hat" Journey:** Leveraging my background as a **Support Relationship Manager (SRM)** and **Customer Success Manager (CSM)** to provide a 360-degree engineering of the customer experience.
+* **The "Red Hat" Journey:** Leveraging my background to provide a 360-degree engineering of the customer experience.
 
 ## Experience Timeline
 * **Senior Critical Situation Manager** | *Red Hat* (Present)
@@ -22,7 +22,7 @@ There is nothing more rewarding than seeing the shift from a customer’s frustr
 * **Support Relationship Manager (SRM)** | *Red Hat*
 * **20+ Years Experience** in Problem Management & Service Delivery.
 
-## ✍️ Latest Articles
+## Latest Articles
 
 <ul>
   {% for post in site.posts %}
