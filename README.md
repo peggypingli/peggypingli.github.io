@@ -1,3 +1,7 @@
+---
+title: "Peggy Li's Blog"
+layout: default
+---
 
 # Hi, I'm Peggy Li 👋 
 
