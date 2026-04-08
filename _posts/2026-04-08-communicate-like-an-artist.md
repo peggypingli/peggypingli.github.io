@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Communicate Like An Artist"
+description: "Turning critical situations into communication masterpieces"
 date: 2026-04-08
 ---
 
@@ -63,3 +64,11 @@ At the next level, **<span style="color: #CC0000;">DISC</span>** assessment gene
 The WHY behind the communication seldom changes along the situation management life cycle. It is like the paint brush in your hand when drawing your artwork. It is your choice when deciding what to draw in each step. To come out with a perfect artwork, each step which is driven by your brush should connect to that WHY.
 
 Please carry these practices when exploring your own way toward becoming a more effective communicator, both personally and professionally.
+
+<br>
+<hr>
+<div style="color: #606c71; font-size: 0.9em; display: flex; gap: 20px; align-items: center; padding-top: 10px;">
+  <span>👤 <strong>Peggy Li</strong></span>
+  <span>🗓️ April 08, 2026</span>
+  <span>⏳ 4 min read</span>
+</div>
