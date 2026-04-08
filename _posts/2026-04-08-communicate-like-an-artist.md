@@ -6,7 +6,8 @@ date: 2026-04-08
 
 Escalation/Situation Management requires a high level of communication skills. I would like to share my experience in this blog. Meaningful and efficient communication is crucial when managing escalations in my daily job. It requires a strategic mindset, courage, compassion, clarity and many more. I found my life can get easier in any area of my life/work circles if I practice what I learned in the last 20 years of problem management work.
 
-This blog provides some insights on how to enhance your communication. I use the Artist as an analogy for the reason below: The goal of an artist is to deliver a message or an impression in one artwork. To reach it, the artist needs to keep the message in mind and carefully decides what to paint/design. The masterpieces are those ones with perfect demonstration of that message from each single detail/component. The communication aims for the similar goal - information transmission. Good communication should be efficient and right to the point (no more, no less).
+This blog provides some insights on how to enhance your communication. I use the Artist as an analogy for the reason below:
+* The goal of an artist is to deliver a message or an impression in one artwork. To reach it, the artist needs to keep the message in mind and carefully decides what to paint/design. The masterpieces are those ones with perfect demonstration of that message from each single detail/component. * The communication aims for the similar goal - information transmission. Good communication should be efficient and right to the point (no more, no less).
 
 Here is my experience on how to make communication efficient.
 
@@ -18,7 +19,7 @@ When managing escalations, our role expects us to be the communication owner. To
 * What is in it for my audience?
 * What is the desired outcome?
 
-Through this research, we aim to understand the escalated situation more so we can define what approaches/responses are required for the given situation. I am passionate about my job simply because each situation has a unique problem for me to solve, which gives me unlimited space to explore a right solution. Even though every situation is different, the Cynefin Framework summarizes any situation into 4 basic categories: Obvious, Complicated, Complex and Chaotic. This can be used to structure the approach including our communication approach to finding the correct solution that matches the given conditions of the situation.
+Through this research, we aim to understand the escalated situation more so we can define what approaches/responses are required for the given situation. I am passionate about my job simply because each situation has a unique problem for me to solve, which gives me unlimited space to explore a right solution. Even though every situation is different, the **<span style="color: #CC0000;">Cynefin Framework</span>** summarizes any situation into 4 basic categories: Obvious, Complicated, Complex and Chaotic. This can be used to structure the approach including our communication approach to finding the correct solution that matches the given conditions of the situation.
 <div align="center">
 <img width="591" height="472" alt="image" src="https://github.com/user-attachments/assets/51236c28-9d2b-4404-bcfd-7fbc999a5bb7" />
 </div>
@@ -37,12 +38,12 @@ Communication is not just what we say, but how we deliver it. On the top, keep t
 * **Communicate with presence, love, care and passion:** Compassionate and mindful communication is the key skill to help the information transition cover both perspectives in order to reach a conflict resolution based on the understanding. Please remember that we are communicating to find a solution for the situation, not to deepen the conflicts.
 * **Understand your audiences' communication styles:** If you have worked with the audiences from other situations, tailor your key communication notes based on their styles. If they are new to you, do some research in advance. You may talk to other internal stakeholders who know them. Their LinkedIn profiles and blogs can also give you a hint. If you don't have any clue, get ready to find it out in the live conversation.
 
-There are many ways to assess a person's style. To understand the styles, we should be aware of each person's personality and strength. TILT365 is a tool Red Hat team uses often to identify our personality and strengths by nature. There are 4 TILT types: Connection, Clarity, Structure and Impact. There is no way to ask our audiences' TILT type. But if you are aware of each type's thinking/feeling preferences, behavior drivers, focus of attention and inner motivations, you can quickly capture your audiences' type.
+There are many ways to assess a person's style. To understand the styles, we should be aware of each person's personality and strength. **<span style="color: #CC0000;">TILT365</span>** is a tool Red Hat team uses often to identify our personality and strengths by nature. There are 4 TILT types: Connection, Clarity, Structure and Impact. There is no way to ask our audiences' TILT type. But if you are aware of each type's thinking/feeling preferences, behavior drivers, focus of attention and inner motivations, you can quickly capture your audiences' type.
 <div align="center">
 <img width="541" height="618" alt="image" src="https://github.com/user-attachments/assets/4afaf13c-1cd1-4b76-8e8c-5b6b87e5910b" />
 </div>
 
-At the next level, DISC assessment generates a deep understanding of your natural and adopted behavior styles: Dominance, Influence, Steadiness and Conscientiousness. Each style has their typical communication styles, hence the best practices below when communicating with each of them:
+At the next level, **<span style="color: #CC0000;">DISC</span>** assessment generates a deep understanding of your natural and adopted behavior styles: Dominance, Influence, Steadiness and Conscientiousness. Each style has their typical communication styles, hence the best practices below when communicating with each of them:
 <div align="center">
 <img width="1078" height="489" alt="image" src="https://github.com/user-attachments/assets/92bb8d71-62c1-42c1-a968-7212fe16a80d" />
 </div>
