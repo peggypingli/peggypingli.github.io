@@ -1,8 +1,3 @@
----
-title: "Peggy Li's Blog"
-layout: default
----
-
 # Hi, I'm Peggy Li 👋 
 
 ### Senior Critical Situation Manager | Red Hat | Canberra, Australia
