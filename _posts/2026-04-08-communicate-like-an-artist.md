@@ -28,9 +28,9 @@ Through this research, we aim to understand the escalated situation more so we c
 In Chinese, we have a proverb - 三思而后行. It means - think three times before you act. This WHY research is the most important part of any communication. We need to focus on the WHY along the whole communication journey. This will help us avoid the side distractions by emotions, self-defense and bias during crucial conversations.
 
 ## Identify the WHAT to determine your messages
-Stay unbiased when generating your messages: you are here to convey messages, not emotion. Based on your understanding of the audiences, draft the messages in the way to match their expected communication way. 
-* For example, if your audience is a visual learner, prepare your message via data/chart. 
-* If the key stakeholder is an executive and prefers 2 minutes talk, prepare your messages in an extremely simplified way to target what he/she/they wants to know. 
+Stay unbiased when generating your messages: you are here to convey messages, not emotion.
+
+Based on your understanding of the audiences, draft the messages in the way to match their expected communication way. For example, if your audience is a visual learner, prepare your message via data/chart. If the key stakeholder is an executive and prefers 2 minutes talk, prepare your messages in an extremely simplified way to target what he/she/they wants to know. 
 
 With the activities above, you are able to get the proper level of confidence based on the clarified authority and insights about the situation behind the communication, in order to make the communication happen.
 
@@ -60,4 +60,6 @@ At the next level, **<span style="color: #CC0000;">DISC</span>** assessment gene
 * **Note down all the agreed points:** Capture all the key agreements including the action items. Review their connection to the WHY. Finalize and communicate the call summary timely. Remember to keep your style consistent and be accountable to track the action items closely afterward.
 
 ## Summary
-The WHY behind the communication seldom changes along the situation management life cycle. It is like the paint brush in your hand when drawing your artwork. It is your choice when deciding what to draw in each step. To come out with a perfect artwork, each step which is driven by your brush should connect to that WHY. Please carry these practices when exploring your own way toward becoming a more effective communicator, both personally and professionally.
+The WHY behind the communication seldom changes along the situation management life cycle. It is like the paint brush in your hand when drawing your artwork. It is your choice when deciding what to draw in each step. To come out with a perfect artwork, each step which is driven by your brush should connect to that WHY.
+
+Please carry these practices when exploring your own way toward becoming a more effective communicator, both personally and professionally.
