@@ -7,7 +7,8 @@ date: 2026-04-08
 Escalation/Situation Management requires a high level of communication skills. I would like to share my experience in this blog. Meaningful and efficient communication is crucial when managing escalations in my daily job. It requires a strategic mindset, courage, compassion, clarity and many more. I found my life can get easier in any area of my life/work circles if I practice what I learned in the last 20 years of problem management work.
 
 This blog provides some insights on how to enhance your communication. I use the Artist as an analogy for the reason below:
-* The goal of an artist is to deliver a message or an impression in one artwork. To reach it, the artist needs to keep the message in mind and carefully decides what to paint/design. The masterpieces are those ones with perfect demonstration of that message from each single detail/component. * The communication aims for the similar goal - information transmission. Good communication should be efficient and right to the point (no more, no less).
+* The goal of an artist is to deliver a message or an impression in one artwork. To reach it, the artist needs to keep the message in mind and carefully decides what to paint/design. The masterpieces are those ones with perfect demonstration of that message from each single detail/component.
+* The communication aims for the similar goal - information transmission. Good communication should be efficient and right to the point (no more, no less).
 
 Here is my experience on how to make communication efficient.
 
