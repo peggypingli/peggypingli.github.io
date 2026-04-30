@@ -1,12 +1,12 @@
 ---
 layout: default
 title: "Bridging the Gap"
-description: "Filling the space between expectation and reality"
+description: "Why exceptional critical situation management is about filling the space between expectation and reality."
 date: 2026-04-30
 ---
 
 <div align="center">
-  <img src="[PASTE_YOUR_GITHUB_LINK_HERE](https://github.com/user-attachments/assets/61b424db-4f52-463c-a515-e53ce1c37422)" alt="Bridging the Gap Illustration" width="600">
+  <img src="https://github.com/user-attachments/assets/61b424db-4f52-463c-a515-e53ce1c37422" alt="Bridging the Gap Illustration" width="600">
   <br>
   <em style="font-size: 0.8em; color: #606c71;">Filling the space between expectation and reality.</em>
 </div>
