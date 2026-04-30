@@ -8,7 +8,6 @@ date: 2026-04-30
 <div align="center">
   <img src="https://github.com/user-attachments/assets/61b424db-4f52-463c-a515-e53ce1c37422" alt="Bridging the Gap Illustration" width="600">
   <br>
-  <em style="font-size: 0.8em; color: #606c71;">Filling the space between expectation and reality.</em>
 </div>
 
 # Bridging the Gap: When Process Meets Reality
