@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Bridging the Gap"
-description: "Why exceptional critical situation management is about filling the space between expectation and reality."
+description: "Filling the space between expectation and reality"
 date: 2026-04-30
 ---
 
